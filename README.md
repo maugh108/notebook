@@ -1,0 +1,1 @@
+# Código de inicio para Bloc de notas
