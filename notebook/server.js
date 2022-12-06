@@ -10,7 +10,6 @@ const app = express();
 
 app.use(clog);
 
-
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 app.use('/api', api);
